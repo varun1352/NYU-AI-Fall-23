@@ -1,0 +1,23 @@
+
+Output : [Tails, Heads]
+Output% .45 .55
+Tails: [TStay, TNotStay]
+Heads: [HStay, HNotStay]
+HStay: [HH, HT]
+HStay% 0.590 0.410
+
+HNotStay: [HNewH, HNewT]
+HNotStay& 0.509 0.491
+TStay: [TH, TT]
+TStay% 0.5 0.5
+
+TNotStay: [TNewH, TNewT]
+TNotStay% 0.4 0.6
+HH= -100
+HT= 105
+TH= 105
+TT= -100
+HNewH= 105
+HNewT=-100
+TNewH=-100
+TNewT=105

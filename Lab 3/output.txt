@@ -1,0 +1,14419 @@
+Class3
+Pass
+1 0
+------
+Pass
+Pass
+0 0
+------
+Internet
+FB
+1 0
+------
+Sleep
+Sleep
+0 0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 0.0
+------
+Class1
+FB
+1 -1.0
+------
+Study2
+Class3
+1 0.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 0
+------
+Drink
+Class1
+0.2 -1.0
+Class2
+0.4 0.0
+Class3
+0.4 0.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -1.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -1.0
+------
+Class1
+FB
+1 -2.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -0.2
+------
+Drink
+Class1
+0.2 -2.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -2.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -2.0
+------
+Class1
+FB
+1 -3.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 3.6
+------
+Drink
+Class1
+0.2 -3.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -3.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -3.0
+------
+Class1
+FB
+1 -4.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 3.4
+------
+Drink
+Class1
+0.2 -4.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -4.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -4.0
+------
+Class1
+FB
+1 -5.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 3.2
+------
+Drink
+Class1
+0.2 -5.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -5.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -5.0
+------
+Class1
+FB
+1 -6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 3.0
+------
+Drink
+Class1
+0.2 -6.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -6.0
+------
+Class1
+FB
+1 -7.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 2.8
+------
+Drink
+Class1
+0.2 -7.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -7.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -7.0
+------
+Class1
+FB
+1 -8.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 2.5999999999999996
+------
+Drink
+Class1
+0.2 -8.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -8.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -8.0
+------
+Class1
+FB
+1 -9.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 2.4
+------
+Drink
+Class1
+0.2 -9.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -9.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -9.0
+------
+Class1
+FB
+1 -10.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 2.2
+------
+Drink
+Class1
+0.2 -10.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -10.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -10.0
+------
+Class1
+FB
+1 -11.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 2.0
+------
+Drink
+Class1
+0.2 -11.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -11.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -11.0
+------
+Class1
+FB
+1 -12.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 1.7999999999999998
+------
+Drink
+Class1
+0.2 -12.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -12.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -12.0
+------
+Class1
+FB
+1 -13.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 1.5999999999999996
+------
+Drink
+Class1
+0.2 -13.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -13.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -13.0
+------
+Class1
+FB
+1 -14.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 1.4
+------
+Drink
+Class1
+0.2 -14.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -14.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -14.0
+------
+Class1
+FB
+1 -15.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 1.1999999999999997
+------
+Drink
+Class1
+0.2 -15.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -15.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -15.0
+------
+Class1
+FB
+1 -16.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 1.0
+------
+Drink
+Class1
+0.2 -16.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -16.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -16.0
+------
+Class1
+FB
+1 -17.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 0.7999999999999998
+------
+Drink
+Class1
+0.2 -17.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -17.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -17.0
+------
+Class1
+FB
+1 -18.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 0.5999999999999996
+------
+Drink
+Class1
+0.2 -18.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -18.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -18.0
+------
+Class1
+FB
+1 -19.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 0.3999999999999999
+------
+Drink
+Class1
+0.2 -19.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -19.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -19.0
+------
+Class1
+FB
+1 -20.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 0.19999999999999973
+------
+Drink
+Class1
+0.2 -20.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -20.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -20.0
+------
+Class1
+FB
+1 -21.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 0.0
+------
+Drink
+Class1
+0.2 -21.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -21.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -21.0
+------
+Class1
+FB
+1 -22.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -0.20000000000000018
+------
+Drink
+Class1
+0.2 -22.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -22.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -22.0
+------
+Class1
+FB
+1 -23.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -0.40000000000000036
+------
+Drink
+Class1
+0.2 -23.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -23.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -23.0
+------
+Class1
+FB
+1 -24.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -0.6000000000000005
+------
+Drink
+Class1
+0.2 -24.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -24.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -24.0
+------
+Class1
+FB
+1 -25.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -0.8000000000000007
+------
+Drink
+Class1
+0.2 -25.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -25.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -25.0
+------
+Class1
+FB
+1 -26.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -1.0
+------
+Drink
+Class1
+0.2 -26.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -26.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -26.0
+------
+Class1
+FB
+1 -27.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -1.2000000000000002
+------
+Drink
+Class1
+0.2 -27.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -27.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -27.0
+------
+Class1
+FB
+1 -28.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -1.4000000000000004
+------
+Drink
+Class1
+0.2 -28.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -28.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -28.0
+------
+Class1
+FB
+1 -29.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -1.6000000000000005
+------
+Drink
+Class1
+0.2 -29.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -29.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -29.0
+------
+Class1
+FB
+1 -30.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -1.8000000000000007
+------
+Drink
+Class1
+0.2 -30.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -30.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -30.0
+------
+Class1
+FB
+1 -31.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -2.0
+------
+Drink
+Class1
+0.2 -31.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -31.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -31.0
+------
+Class1
+FB
+1 -32.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -2.2
+------
+Drink
+Class1
+0.2 -32.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -32.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -32.0
+------
+Class1
+FB
+1 -33.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -2.4000000000000004
+------
+Drink
+Class1
+0.2 -33.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -33.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -33.0
+------
+Class1
+FB
+1 -34.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -2.6000000000000005
+------
+Drink
+Class1
+0.2 -34.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -34.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -34.0
+------
+Class1
+FB
+1 -35.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -2.8000000000000007
+------
+Drink
+Class1
+0.2 -35.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -35.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -35.0
+------
+Class1
+FB
+1 -36.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -3.0
+------
+Drink
+Class1
+0.2 -36.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -36.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -36.0
+------
+Class1
+FB
+1 -37.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -3.2
+------
+Drink
+Class1
+0.2 -37.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -37.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -37.0
+------
+Class1
+FB
+1 -38.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -3.4000000000000004
+------
+Drink
+Class1
+0.2 -38.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -38.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -38.0
+------
+Class1
+FB
+1 -39.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -3.6000000000000005
+------
+Drink
+Class1
+0.2 -39.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -39.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -39.0
+------
+Class1
+FB
+1 -40.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -3.8000000000000007
+------
+Drink
+Class1
+0.2 -40.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -40.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -40.0
+------
+Class1
+FB
+1 -41.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -4.0
+------
+Drink
+Class1
+0.2 -41.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -41.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -41.0
+------
+Class1
+FB
+1 -42.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -4.200000000000001
+------
+Drink
+Class1
+0.2 -42.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -42.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -42.0
+------
+Class1
+FB
+1 -43.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -4.4
+------
+Drink
+Class1
+0.2 -43.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -43.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -43.0
+------
+Class1
+FB
+1 -44.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -4.6
+------
+Drink
+Class1
+0.2 -44.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -44.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -44.0
+------
+Class1
+FB
+1 -45.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -4.800000000000001
+------
+Drink
+Class1
+0.2 -45.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -45.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -45.0
+------
+Class1
+FB
+1 -46.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -5.0
+------
+Drink
+Class1
+0.2 -46.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -46.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -46.0
+------
+Class1
+FB
+1 -47.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -5.200000000000001
+------
+Drink
+Class1
+0.2 -47.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -47.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -47.0
+------
+Class1
+FB
+1 -48.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -5.4
+------
+Drink
+Class1
+0.2 -48.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -48.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -48.0
+------
+Class1
+FB
+1 -49.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -5.600000000000001
+------
+Drink
+Class1
+0.2 -49.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -49.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -49.0
+------
+Class1
+FB
+1 -50.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -5.800000000000001
+------
+Drink
+Class1
+0.2 -50.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -50.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -50.0
+------
+Class1
+FB
+1 -51.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -6.0
+------
+Drink
+Class1
+0.2 -51.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -51.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -51.0
+------
+Class1
+FB
+1 -52.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -6.200000000000001
+------
+Drink
+Class1
+0.2 -52.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -52.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -52.0
+------
+Class1
+FB
+1 -53.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -6.4
+------
+Drink
+Class1
+0.2 -53.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -53.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -53.0
+------
+Class1
+FB
+1 -54.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -6.600000000000001
+------
+Drink
+Class1
+0.2 -54.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -54.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -54.0
+------
+Class1
+FB
+1 -55.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -6.800000000000001
+------
+Drink
+Class1
+0.2 -55.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -55.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -55.0
+------
+Class1
+FB
+1 -56.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -7.0
+------
+Drink
+Class1
+0.2 -56.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -56.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -56.0
+------
+Class1
+FB
+1 -57.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -7.200000000000001
+------
+Drink
+Class1
+0.2 -57.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -57.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -57.0
+------
+Class1
+FB
+1 -58.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -7.4
+------
+Drink
+Class1
+0.2 -58.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -58.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -58.0
+------
+Class1
+FB
+1 -59.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -7.600000000000001
+------
+Drink
+Class1
+0.2 -59.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -59.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -59.0
+------
+Class1
+FB
+1 -60.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -7.800000000000001
+------
+Drink
+Class1
+0.2 -60.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -60.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -60.0
+------
+Class1
+FB
+1 -61.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -8.0
+------
+Drink
+Class1
+0.2 -61.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -61.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -61.0
+------
+Class1
+FB
+1 -62.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -8.200000000000001
+------
+Drink
+Class1
+0.2 -62.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -62.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -62.0
+------
+Class1
+FB
+1 -63.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -8.4
+------
+Drink
+Class1
+0.2 -63.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -63.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -63.0
+------
+Class1
+FB
+1 -64.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -8.600000000000001
+------
+Drink
+Class1
+0.2 -64.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -64.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -64.0
+------
+Class1
+FB
+1 -65.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -8.8
+------
+Drink
+Class1
+0.2 -65.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -65.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -65.0
+------
+Class1
+FB
+1 -66.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -9.0
+------
+Drink
+Class1
+0.2 -66.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -66.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -66.0
+------
+Class1
+FB
+1 -67.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -9.200000000000001
+------
+Drink
+Class1
+0.2 -67.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -67.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -67.0
+------
+Class1
+FB
+1 -68.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -9.4
+------
+Drink
+Class1
+0.2 -68.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -68.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -68.0
+------
+Class1
+FB
+1 -69.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -9.600000000000001
+------
+Drink
+Class1
+0.2 -69.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -69.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -69.0
+------
+Class1
+FB
+1 -70.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -9.8
+------
+Drink
+Class1
+0.2 -70.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -70.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -70.0
+------
+Class1
+FB
+1 -71.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -10.0
+------
+Drink
+Class1
+0.2 -71.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -71.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -71.0
+------
+Class1
+FB
+1 -72.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -10.200000000000001
+------
+Drink
+Class1
+0.2 -72.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -72.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -72.0
+------
+Class1
+FB
+1 -73.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -10.4
+------
+Drink
+Class1
+0.2 -73.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -73.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -73.0
+------
+Class1
+FB
+1 -74.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -10.600000000000001
+------
+Drink
+Class1
+0.2 -74.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -74.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -74.0
+------
+Class1
+FB
+1 -75.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -10.8
+------
+Drink
+Class1
+0.2 -75.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -75.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -75.0
+------
+Class1
+FB
+1 -76.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -11.0
+------
+Drink
+Class1
+0.2 -76.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -76.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -76.0
+------
+Class1
+FB
+1 -77.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -11.200000000000001
+------
+Drink
+Class1
+0.2 -77.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -77.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -77.0
+------
+Class1
+FB
+1 -78.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -11.4
+------
+Drink
+Class1
+0.2 -78.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -78.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -78.0
+------
+Class1
+FB
+1 -79.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -11.600000000000001
+------
+Drink
+Class1
+0.2 -79.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -79.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -79.0
+------
+Class1
+FB
+1 -80.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -11.8
+------
+Drink
+Class1
+0.2 -80.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -80.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -80.0
+------
+Class1
+FB
+1 -81.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -12.0
+------
+Drink
+Class1
+0.2 -81.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -81.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -81.0
+------
+Class1
+FB
+1 -82.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -12.2
+------
+Drink
+Class1
+0.2 -82.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -82.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -82.0
+------
+Class1
+FB
+1 -83.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -12.400000000000002
+------
+Drink
+Class1
+0.2 -83.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -83.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -83.0
+------
+Class1
+FB
+1 -84.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -12.600000000000001
+------
+Drink
+Class1
+0.2 -84.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -84.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -84.0
+------
+Class1
+FB
+1 -85.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -12.8
+------
+Drink
+Class1
+0.2 -85.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -85.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -85.0
+------
+Class1
+FB
+1 -86.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -13.0
+------
+Drink
+Class1
+0.2 -86.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -86.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -86.0
+------
+Class1
+FB
+1 -87.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -13.2
+------
+Drink
+Class1
+0.2 -87.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -87.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -87.0
+------
+Class1
+FB
+1 -88.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -13.400000000000002
+------
+Drink
+Class1
+0.2 -88.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -88.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -88.0
+------
+Class1
+FB
+1 -89.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -13.600000000000001
+------
+Drink
+Class1
+0.2 -89.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -89.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -89.0
+------
+Class1
+FB
+1 -90.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -13.8
+------
+Drink
+Class1
+0.2 -90.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -90.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -90.0
+------
+Class1
+FB
+1 -91.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -14.0
+------
+Drink
+Class1
+0.2 -91.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -91.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -91.0
+------
+Class1
+FB
+1 -92.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -14.2
+------
+Drink
+Class1
+0.2 -92.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -92.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -92.0
+------
+Class1
+FB
+1 -93.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -14.400000000000002
+------
+Drink
+Class1
+0.2 -93.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -93.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -93.0
+------
+Class1
+FB
+1 -94.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -14.600000000000001
+------
+Drink
+Class1
+0.2 -94.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -94.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -94.0
+------
+Class1
+FB
+1 -95.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -14.8
+------
+Drink
+Class1
+0.2 -95.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -95.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -95.0
+------
+Class1
+FB
+1 -96.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -15.0
+------
+Drink
+Class1
+0.2 -96.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -96.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -96.0
+------
+Class1
+FB
+1 -97.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -15.200000000000003
+------
+Drink
+Class1
+0.2 -97.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -97.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -97.0
+------
+Class1
+FB
+1 -98.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -15.400000000000002
+------
+Drink
+Class1
+0.2 -98.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -98.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -98.0
+------
+Class1
+FB
+1 -99.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -15.600000000000001
+------
+Drink
+Class1
+0.2 -99.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -99.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Sleep
+1 0.0
+------
+FB
+Internet
+1 -99.0
+------
+Class1
+FB
+1 -100.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 0.0
+------
+Pub
+Drink
+1 -15.8
+------
+Drink
+Class1
+0.2 -100.0
+Class2
+0.4 0.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -100.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -100.0
+------
+Class1
+Study1
+1 -2.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 -16.0
+------
+Drink
+Class1
+0.2 -2.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -101.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -101.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 6.800000000000001
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -102.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -102.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -103.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -103.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -104.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -104.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -105.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -105.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -106.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -106.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -107.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -107.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -108.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -108.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -109.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -109.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -110.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -110.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -111.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -111.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -112.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -112.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -113.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -113.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -114.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -114.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -115.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -115.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -116.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -116.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -117.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -117.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -118.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -118.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -119.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -119.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -120.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -120.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -121.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -121.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -122.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -122.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -123.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -123.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -124.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -124.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -125.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -125.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -126.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -126.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -127.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -127.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -128.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -128.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -129.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -129.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -130.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -130.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -131.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -131.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -132.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -132.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -133.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -133.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -134.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -134.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -135.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -135.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -136.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -136.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -137.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -137.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -138.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -138.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -139.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -139.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -140.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -140.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -141.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -141.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -142.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -142.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -143.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -143.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -144.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -144.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -145.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -145.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -146.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -146.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -147.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -147.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -148.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -148.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -149.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -149.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -150.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -150.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -151.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -151.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -152.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -152.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -153.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -153.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -154.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -154.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -155.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -155.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -156.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -156.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -157.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -157.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -158.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -158.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -159.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -159.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -160.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -160.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -161.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -161.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -162.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -162.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -163.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -163.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -164.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -164.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -165.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -165.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -166.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -166.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -167.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -167.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -168.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -168.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -169.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -169.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -170.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -170.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -171.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -171.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -172.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -172.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -173.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -173.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -174.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -174.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -175.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -175.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -176.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -176.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -177.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -177.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -178.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -178.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -179.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -179.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -180.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -180.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -181.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -181.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -182.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -182.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -183.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -183.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -184.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -184.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -185.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -185.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -186.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -186.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -187.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -187.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -188.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -188.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -189.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -189.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -190.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -190.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -191.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -191.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -192.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -192.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -193.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -193.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -194.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -194.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -195.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -195.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -196.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -196.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -197.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -197.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -198.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -198.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+FB
+1 -199.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 -199.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class3
+Pass
+1 10.0
+------
+Pass
+Pass
+0 10.0
+------
+Internet
+Class1
+1 6.0
+------
+Sleep
+Sleep
+0 0.0
+------
+Class2
+Study2
+1 8.0
+------
+FB
+Internet
+1 6.0
+------
+Class1
+Study1
+1 6.0
+------
+Study2
+Class3
+1 10.0
+------
+Study1
+Class2
+1 8.0
+------
+Pub
+Drink
+1 8.4
+------
+Drink
+Class1
+0.2 6.0
+Class2
+0.4 8.0
+Class3
+0.4 10.0
+------
+Class1 -> Study1
+Class2 -> Study2
+Class3 -> Pass
+FB -> Internet
+Internet -> Class1
+Pub -> Drink
+Study1 -> Class2
+Study2 -> Class3
+Class1=6.000     
+Class2=8.000     
+Class3=10.000    
+Drink=8.400     
+FB=5.000     
+Internet=6.000     
+Pass=10.000    
+Pub=9.400     
+Sleep=0.000     
+Study1=6.000     
+Study2=8.000     
